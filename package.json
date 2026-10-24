@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "dev": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princeNITian/design-patterns-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princeNITian/design-patterns-ts/issues"
+  },
+  "homepage": "https://github.com/princeNITian/design-patterns-ts#readme"
+}
